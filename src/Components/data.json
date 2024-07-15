@@ -1,0 +1,59 @@
+{
+  
+    "cards":[
+    {
+        "id":1,
+        "title":"Sun",
+        "text":"The sun is a massive star providing light, heat, and energy essential for life on Earth.",
+        "button":"Go To Sun",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2oASENe7GdCli1KnAl6cnDnuD6lGT60txQ&s"
+    },
+
+    {
+        "id":1,
+        "title":"Forest",
+        "text":"A forest is a large area covered with trees and undergrowth, hosting diverse wildlife and ecosystems.",
+        "button":"Go To Forest",
+        "photo":"https://media.istockphoto.com/id/1488944909/photo/environment-concept-green-glass-globe-with-a-tree-in-the-forest-with-sunlight-sustainability.webp?b=1&s=170667a&w=0&k=20&c=f89zMjUr7FldJzgS0p8mJyuTxBWgvhv0kBQL7fcSnjs="
+    },
+
+    {
+        "id":1,
+        "title":"Water",
+        "text":"Water is a vital, transparent, odorless, tasteless liquid essential for all forms of life and ecosystems.",
+        "button":"Go To Water",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepCoPVhIXI3rEUss3pxeNaHcqwHHgVHZTeQ&s"
+    },
+
+    {
+        "id":1,
+        "title":"Tree",
+        "text":"A tree is a perennial plant with an elongated trunk, branches, and leaves, crucial for ecosystems and oxygen.",
+        "button":"Go To Tree",
+        "photo":"https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg"
+    },
+    {
+        "id":1,
+        "title":"Mountain",
+        "text":"Mountains, formed by tectonic activity, are vital for biodiversity. They influence climate and provide resources like minerals and timber.",
+        "button":"Go To Tree",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H37auK1JkgvavfnO9GWCxY3qCoEy2gAA3w&s"
+    },
+    {
+        "id":1,
+        "title":"River",
+        "text":"Rivers, originating from mountains, are crucial for ecosystems, agriculture, and human use. They provide  support diverse aquatic life.",
+        "button":"Go To Tree",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkEMGGzQbC76YdZqrrjeu9vqGqZZ1ml4Rrw&s"
+    },
+    {
+        "id":1,
+        "title":"Clouds",
+        "text":"Clouds, composed of water droplets or ice crystals suspended in the atmosphere, are visible masses of condensed water vapor.",
+        "button":"Go To Tree",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cumulus_cloud.jpg/800px-Cumulus_cloud.jpg"
+    }
+    ]
+  
+ }
+ 
